@@ -1,0 +1,4 @@
+# chạy server 
+python -m server.server
+# chạy client GUI
+python -m client.gui_client
